@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ctorgerson10
+- 👀 I’m interested in game development :)
+- 🌱 I’m currently learning Computer Science at Southern Utah University
+- 📫 How to reach me: Storkhood#9009 on Discord
