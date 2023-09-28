@@ -1,4 +1,1 @@
-- 👋 Hi, I’m CJ
-- 👀 I’m interested in game development!
-- 🌱 I’m a Junior in College studying Computer Science at Southern Utah University
-- 📫 How to reach me: storkhood on Discord
+
